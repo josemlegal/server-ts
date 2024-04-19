@@ -1,0 +1,27 @@
+{
+  "name": "server-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "josemlegal",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/dotenv": "^8.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.7",
+    "@types/pg": "^8.11.5",
+    "dotenv": "^16.0.3",
+    "nodemon": "^3.1.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.5",
+    "yarn-upgrade-all": "^0.7.2"
+  }
+}
